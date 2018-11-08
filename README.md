@@ -13,3 +13,10 @@ After that, its pretty straight forward:
    - Child Logs : I checked if the `error` attribute was defined and if defined, it was false.
 4. Then, its a simple matter of logging to the console.
 5. Also, it logs the run time taken in total to process the logs at the end.
+
+## Instructions
+
+After navigating to the project directory in the terminal,
+
+1. Run `yarn install` or `npm install` to install packages
+2. Run `node index.js` to parse the logs
