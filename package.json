@@ -1,0 +1,15 @@
+{
+  "name": "lodge-test",
+  "version": "1.0.0",
+  "description": "Coding exam for lodge.com.au",
+  "main": "index.js",
+  "author": "Parth Mehta",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "moment": "^2.22.2",
+    "opentracing": "^0.14.3"
+  },
+  "prettier": {}
+}
